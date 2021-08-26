@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/boioboi16/Lyrics-App/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/boioboi16/Lyrics-App/static/js/main.3ae50047.chunk.js",
-    "main.js.map": "/boioboi16/Lyrics-App/static/js/main.3ae50047.chunk.js.map",
-    "runtime-main.js": "/boioboi16/Lyrics-App/static/js/runtime-main.ed771106.js",
-    "runtime-main.js.map": "/boioboi16/Lyrics-App/static/js/runtime-main.ed771106.js.map",
-    "static/js/2.2009a45b.chunk.js": "/boioboi16/Lyrics-App/static/js/2.2009a45b.chunk.js",
-    "static/js/2.2009a45b.chunk.js.map": "/boioboi16/Lyrics-App/static/js/2.2009a45b.chunk.js.map",
-    "index.html": "/boioboi16/Lyrics-App/index.html",
-    "static/css/main.d87cbb72.chunk.css.map": "/boioboi16/Lyrics-App/static/css/main.d87cbb72.chunk.css.map",
-    "static/js/2.2009a45b.chunk.js.LICENSE.txt": "/boioboi16/Lyrics-App/static/js/2.2009a45b.chunk.js.LICENSE.txt"
+    "main.css": "/Lyrics-App/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/Lyrics-App/static/js/main.3ae50047.chunk.js",
+    "main.js.map": "/Lyrics-App/static/js/main.3ae50047.chunk.js.map",
+    "runtime-main.js": "/Lyrics-App/static/js/runtime-main.74fcbfdf.js",
+    "runtime-main.js.map": "/Lyrics-App/static/js/runtime-main.74fcbfdf.js.map",
+    "static/js/2.2009a45b.chunk.js": "/Lyrics-App/static/js/2.2009a45b.chunk.js",
+    "static/js/2.2009a45b.chunk.js.map": "/Lyrics-App/static/js/2.2009a45b.chunk.js.map",
+    "index.html": "/Lyrics-App/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/Lyrics-App/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.2009a45b.chunk.js.LICENSE.txt": "/Lyrics-App/static/js/2.2009a45b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed771106.js",
+    "static/js/runtime-main.74fcbfdf.js",
     "static/js/2.2009a45b.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
     "static/js/main.3ae50047.chunk.js"
